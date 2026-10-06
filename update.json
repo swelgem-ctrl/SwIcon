@@ -1,7 +1,7 @@
 {
-  "version": "0.5.0",
-  "download_url": "https://github.com/swelgem-ctrl/SwIcon/releases/download/v0.5.0/swIcon.zip",
-  "changelog": "Initial stable release of swIcon - Portable Folder Icon Changer",
-  "release_date": "2026-10-03",
+  "version": "0.5.1",
+  "download_url": "https://github.com/swelgem-ctrl/SwIcon/releases/download/v0.5.1/swIcon.zip",
+  "changelog": "• Preview & localization fixes\n• Window geometry + system tray\n• Multi-icon drag & drop\n• Update check via GitHub",
+  "release_date": "2026-10-06",
   "min_required_version": "0.5.0"
 }
